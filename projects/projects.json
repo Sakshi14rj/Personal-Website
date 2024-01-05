@@ -4,7 +4,7 @@
     "image": "TwitterClone",
     "desc":"React+other libraries & frameworks.",
     "links": {
-      "code": "https://github.com/Sakshi14rj/twitter-clone"
+      "view": "https://github.com/Sakshi14rj/twitter-clone"
     }
   },
   {
@@ -12,7 +12,7 @@
     "image": "stack OVERFLOW CLONE",
     "desc":"MERN Website.",
     "links": {
-      "code": "https://github.com/Sakshi14rj/STACKOF"
+      "view": "https://github.com/Sakshi14rj/STACKOF"
     }
   },
   {
@@ -20,7 +20,7 @@
     "image": "SOUL-SIAL",
     "desc":"CRUD ,React+Node+Express Website.",
     "links": {
-      "code": "https://github.com/Sakshi14rj/Social-MERN"
+      "view": "https://github.com/Sakshi14rj/Social-MERN"
     }
   },
   {
@@ -28,7 +28,7 @@
     "image": "Doddles",
     "desc":"Javascript APIs and React+Node Website.",
     "links": {
-      "code": "https://github.com/Sakshi14rj/GPT3.5Clone"
+      "view": "https://github.com/Sakshi14rj/GPT3.5Clone"
     }
   },
   {
@@ -36,7 +36,7 @@
     "image": "SUPES",
     "desc":"WordPress Website - not hosted",
     "links": {
-      "code": "https://github.com/Sakshi14rj"
+      "view": "https://github.com/Sakshi14rj"
     }
   },
   {
@@ -44,7 +44,7 @@
     "image": "Sorting Visualizer",
     "desc": "Clear your DSA concepts with this.",
     "links": {
-      "code": "https://github.com/Sakshi14rj/Sorting-Visualizer"
+      "view": "https://github.com/Sakshi14rj/Sorting-Visualizer"
     }
   },
 {
@@ -52,7 +52,7 @@
     "image": "LOGO",
     "desc":"Logo Samples",
     "links": {
-      "code": "https://drive.google.com/drive/folders/1wDQLOJET5MiqAycrO69IqdY6K25tlYbn?usp=sharing"
+      "view": "https://drive.google.com/drive/folders/1wDQLOJET5MiqAycrO69IqdY6K25tlYbn?usp=sharing"
     }
   },
 {
@@ -60,7 +60,7 @@
     "image": "proto",
     "desc":"Prototypes & Mockups",
     "links": {
-      "code": "https://www.figma.com/file/sdNSKWv1Ney08Ma3cdUlPi/Untitled?type=design&mode=design&t=P81IhKaKlGHls6eB-1"
+      "view": "https://www.figma.com/file/sdNSKWv1Ney08Ma3cdUlPi/Untitled?type=design&mode=design&t=P81IhKaKlGHls6eB-1"
     }
   },
 {
@@ -68,11 +68,7 @@
     "image": "Product Designs",
     "desc":"UI +UX Designs",
     "links": {
-      "code": "https://www.figma.com/proto/sb7J9gIgAGagvlrUFUgCAu/Giftmas?type=design&node-id=1-2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2"
+      "view": "https://www.figma.com/proto/sb7J9gIgAGagvlrUFUgCAu/Giftmas?type=design&node-id=1-2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2"
     }
-}
-
-
-
- 
+} 
 ]
