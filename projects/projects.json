@@ -46,6 +46,33 @@
     "links": {
       "code": "https://github.com/Sakshi14rj/Sorting-Visualizer"
     }
-  }
+  },
+{
+    "name": "Logo Designs",
+    "image": "LOGO",
+    "desc":"Logo Samples",
+    "links": {
+      "code": "https://github.com/Sakshi14rj"
+    }
+  },
+{
+    "name": "Prototypes",
+    "image": "proto",
+    "desc":"Prototypes & Mockups",
+    "links": {
+      "code": "https://github.com/Sakshi14rj"
+    }
+  },
+{
+    "name": "UI&UX",
+    "image": "Product Designs",
+    "desc":"UI +UX Designs",
+    "links": {
+      "code": "https://github.com/Sakshi14rj"
+    }
+}
+
+
+
  
 ]
